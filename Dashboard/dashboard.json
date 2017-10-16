@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "46050d70-ad73-11e7-9539-05f2a2c4204c",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Sample Dash Copy",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"col\":1,\"id\":\"ce94a2e0-aacb-11e7-85ff-c1338fa6db5f\",\"panelIndex\":1,\"row\":1,\"size_x\":6,\"size_y\":3,\"type\":\"visualization\"},{\"col\":1,\"id\":\"76371e60-ad42-11e7-bc7d-ffa8d6ba8e45\",\"panelIndex\":6,\"row\":7,\"size_x\":12,\"size_y\":3,\"type\":\"visualization\"},{\"col\":1,\"id\":\"d9aada80-ad3e-11e7-9539-05f2a2c4204c\",\"panelIndex\":9,\"row\":10,\"size_x\":6,\"size_y\":3,\"type\":\"visualization\"},{\"col\":7,\"id\":\"53188e80-addf-11e7-814f-152b070ce933\",\"panelIndex\":10,\"row\":10,\"size_x\":6,\"size_y\":3,\"type\":\"visualization\"},{\"col\":7,\"id\":\"34bc7ae0-addb-11e7-814f-152b070ce933\",\"panelIndex\":11,\"row\":1,\"size_x\":6,\"size_y\":3,\"type\":\"visualization\"},{\"col\":7,\"id\":\"685f7f00-aade-11e7-81be-0f490adb4eda\",\"panelIndex\":12,\"row\":4,\"size_x\":6,\"size_y\":3,\"type\":\"visualization\"},{\"col\":1,\"id\":\"b1f6b590-adde-11e7-814f-152b070ce933\",\"panelIndex\":13,\"row\":4,\"size_x\":6,\"size_y\":3,\"type\":\"visualization\"},{\"col\":1,\"id\":\"947d21b0-ad35-11e7-8a55-07d4b75364ef\",\"panelIndex\":14,\"row\":13,\"size_x\":12,\"size_y\":3,\"type\":\"visualization\"}]",
+      "optionsJSON": "{\"darkTheme\":false}",
+      "uiStateJSON": "{\"P-3\":{\"vis\":{\"defaultColors\":{\"0 - 550\":\"rgb(247,252,245)\",\"1,100 - 1,650\":\"rgb(116,196,118)\",\"1,650 - 2,200\":\"rgb(35,139,69)\",\"550 - 1,100\":\"rgb(199,233,192)\"}}},\"P-6\":{\"vis\":{\"defaultColors\":{\"0 - 100\":\"rgb(0,104,55)\"}}},\"P-14\":{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":null,\"direction\":null}}}}}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[{\"query\":{\"match_all\":{}}}],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
