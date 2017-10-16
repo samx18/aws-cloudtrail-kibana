@@ -2,9 +2,9 @@
 
 Using AWS Cloudtrail and Elasticsearch and Kibana to create compliance dashboards
 
-![Dashboard](images/kibDash01.tiff "Kibana Dashboard")
+![Dashboard](images/kibDash01.png "Kibana Dashboard")
 
-![Dashboard](images/kibDash02.tiff "Kibana Dashboard")
+![Dashboard](images/kibDash02.png "Kibana Dashboard")
 
 ## Cloud Trail Setup
 
